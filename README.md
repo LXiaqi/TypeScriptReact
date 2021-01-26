@@ -1,3 +1,11 @@
+# TypeScript 项目
+
+    1： 项目搭建： create-react-app my-app --template typescript
+
+    2： 项目配置：如果需要用到less 的话下载less， 暴露 webpack，配置webpack
+
+    3： 插件引入： 第三方UI库， 插件 ， axios 等下载  详情见上一个ReactTest 项目
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
